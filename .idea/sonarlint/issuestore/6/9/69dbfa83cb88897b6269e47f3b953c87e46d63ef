@@ -1,0 +1,6 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÑÍÆùüÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Þ”œûÿÿÿÿ
+Nsquid:S1481"2Remove this unused "objectMessage" local variable.(€ø’½þÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

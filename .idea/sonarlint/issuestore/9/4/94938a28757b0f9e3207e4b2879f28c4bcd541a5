@@ -1,0 +1,3 @@
+
+Ж%squid:RedundantThrowsDeclarationCheck"ЏRemove the declaration of thrown exception 'org.springframework.jms.support.converter.MessageConversionException' which is a runtime exception.(В’ЦХыяяяя
+Б%squid:RedundantThrowsDeclarationCheck"ЏRemove the declaration of thrown exception 'org.springframework.jms.support.converter.MessageConversionException' which is a runtime exception.(јћЃл

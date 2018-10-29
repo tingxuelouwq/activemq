@@ -1,0 +1,9 @@
+
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷Ğ¹
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷Ğ¹
+lsquid:UselessImportCheck"HRemove this unused import 'org.springframework.jms.core.MessageCreator'.(È©äŸ
+Wsquid:UselessImportCheck	".Remove this unused import 'javax.jms.Session'.(İŸş—úÿÿÿÿ
+Wsquid:UselessImportCheck"3Remove this unused import 'javax.jms.JMSException'.(ú°’ú
+Wsquid:UselessImportCheck".Remove this unused import 'javax.jms.Message'.(óÓ®¡üÿÿÿÿ
